@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.6.5.23",
-  "minimumRequiredVersion": "1.6.5.22",
-  "downloadUrl": "https://github.com/iCarlost/SIEOP-Desktop-Releases/releases/download/v1.6.5.23/SIEOP_Desktop_Setup_v1.6.5.23.exe",
-  "releaseNotes": "Agrega extensión propia .sieopproj para proyectos SIEOP, creación de proyectos con esa extensión y asociación para apertura por doble clic.",
+  "latestVersion": "1.6.5.24",
+  "minimumRequiredVersion": "1.6.5.23",
+  "downloadUrl": "https://github.com/iCarlost/SIEOP-Desktop-Releases/releases/download/v1.6.5.24/SIEOP_Desktop_Setup_v1.6.5.24.exe",
+  "releaseNotes": "Guarda automáticamente una copia local del paquete .sieopx junto al proyecto antes de intentar enviarlo al portal. Permite generar paquetes aunque no exista configuración de portal.",
   "mandatory": false
 }
