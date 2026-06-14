@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.6.5.22",
   "minimumRequiredVersion": "1.6.5.21",
-  "downloadUrl": "https://github.com/iCarlost/SIEOP-Desktop-Releases/releases/download/v1.6.5.21/SIEOP_Desktop_Setup_v1.6.5.21.exe",
+  "downloadUrl": "https://github.com/iCarlost/SIEOP-Desktop-Releases/releases/download/v1.6.5.22/SIEOP_Desktop_Setup_v1.6.5.22.exe",
   "releaseNotes": "Corrección de etiqueta visual de versión en la pantalla inicial. Ahora SIEOP muestra la versión real instalada.",
   "mandatory": false
 }
