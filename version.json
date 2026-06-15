@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.6.5.25",
+  "latestVersion": "1.6.5.26",
   "minimumRequiredVersion": "1.6.5.23",
-  "downloadUrl": "https://github.com/iCarlost/SIEOP-Desktop-Releases/releases/download/v1.6.5.25/SIEOP_Desktop_Setup_v1.6.5.25.exe",
-  "releaseNotes": "Actualización de mantenimiento del instalador. Se ajustó el empaquetado para publicarse como carpeta de aplicación y no como archivo único, reduciendo posibles alertas de antivirus. No incluye cambios funcionales relevantes.",
+  "downloadUrl": "https://github.com/iCarlost/SIEOP-Desktop-Releases/releases/download/v1.6.5.26/SIEOP_Desktop_Setup_v1.6.5.26.exe",
+  "releaseNotes": "Mejora de instalación: los archivos .sieopproj ahora se asocian automáticamente con SIEOP Desktop para abrir proyectos con doble clic. El acceso directo en escritorio queda seleccionado por defecto. No incluye cambios funcionales en la captura de estimaciones.",
   "mandatory": false
 }
