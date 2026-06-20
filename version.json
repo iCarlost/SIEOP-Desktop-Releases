@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.6.5.27",
   "minimumRequiredVersion": "1.6.5.25",
-  "downloadUrl": "https://github.com/iCarlost/SIEOP-Desktop-Releases/releases/download/v1.6.5.26/SIEOP_Desktop_Setup_v1.6.5.26.exe",
+  "downloadUrl": "https://github.com/iCarlost/SIEOP-Desktop-Releases/releases/download/v1.6.5.27/SIEOP_Desktop_Setup_v1.6.5.27.exe",
   "releaseNotes": "Mejora en Generadores: el guardado correcto ahora muestra una notificación no bloqueante, evitando interrupciones durante la captura.",
   "mandatory": false
 }
